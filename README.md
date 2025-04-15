@@ -77,7 +77,7 @@ Para rodar o projeto:
 
 ## Vídeo explicativo
 
-🎥 [Link para o vídeo no Loom ou YouTube](https://www.loom.com/share/seu-video-aqui)
+🎥 [Link para o vídeo no Loom ou YouTube](https://youtu.be/N20GzhttK9o)
 
 ---
 
@@ -85,8 +85,5 @@ Para rodar o projeto:
 
 - NetworkX documentation: https://networkx.org/
 - Matplotlib: https://matplotlib.org/
-- Exemplos de repositório:
-  - [Classificador Cat/Dog/Panda](https://github.com/Morsinaldo/embedded_artificial_intelligence/tree/main/projects/cat_dog_panda_classifier)
-  - [Tráfego aéreo no Brasil](https://github.com/thaisaraujom/algorithms_datastructure_ii/tree/main/brazil_air_traffic)
 
 ---
